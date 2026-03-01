@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Segoe UI, sans-serif;
+  min-height: 100vh;
+  padding: 40px;
+  transition: 0.4s;
+  overflow-x: hidden;
+  perspective: 1200px;
+}
+
+/* Animated Background */
+body.dark {
+  background: linear-gradient(-45deg,#0f0c29,#302b63,#24243e);
+  background-size: 400% 400%;
+  animation: bgMove 10s infinite alternate;
+  color: white;
+}
+
+@keyframes bgMove {
+  0% { background-position: 0% }
+  100% { background-position: 100% }
+}
+
+body.light {
+  background: #f4f4f4;
+  color: #111;
+}
+
+body.cyber { background: linear-gradient(45deg,#ff00cc,#3333ff); color:white; }
+body.forest { background: linear-gradient(45deg,#134e5e,#71b280); color:white; }
+body.sunset { background: linear-gradient(45deg,#ff512f,#dd2476); color:white; }
+body.ocean { background: linear-gradient(45deg,#2193b0,#6dd5ed); color:white; }
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+h1 {
+  font-size: 36px;
+  text-shadow: 0 0 15px cyan;
+}
+
+.top-controls, .add-section {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+input, select, button {
+  padding: 10px;
+  margin: 5px;
+  border-radius: 8px;
+  border: none;
+}
+
+button {
+  cursor: pointer;
+  background: cyan;
+  font-weight: bold;
+}
+
+#bookmarkContainer {
+  max-width: 700px;
+  margin: auto;
+}
+
+.card {
+  background: rgba(255,255,255,0.1);
+  backdrop-filter: blur(10px);
+  padding: 15px;
+  margin: 15px 0;
+  border-radius: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: 0.4s;
+  transform-style: preserve-3d;
+}
+
+.card:hover {
+  transform: rotateY(8deg) scale(1.04);
+  box-shadow: 0 0 25px cyan;
+}
+
+.card a {
+  text-decoration: none;
+  color: inherit;
+  font-weight: bold;
+}
+
+.delete-btn {
+  background: red;
+  color: white;
+}
+
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}

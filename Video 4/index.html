@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bookmark Manager - Aditya Raj</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body class="dark">
+
+<header>
+  <h1>Bookmark Manager</h1>
+</header>
+
+<section class="top-controls">
+  <input type="text" id="searchInput" placeholder="Search bookmarks...">
+
+  <select id="themeSelect">
+    <option value="dark">Dark Neon</option>
+    <option value="light">Light Minimal</option>
+    <option value="cyber">Cyberpunk</option>
+    <option value="forest">Forest</option>
+    <option value="sunset">Sunset</option>
+    <option value="ocean">Ocean</option>
+  </select>
+</section>
+
+<section class="add-section">
+  <input type="text" id="siteName" placeholder="Website Name">
+  <input type="text" id="siteURL" placeholder="Website URL">
+  <button id="addBtn">Add Bookmark</button>
+</section>
+
+<section id="bookmarkContainer"></section>
+
+<canvas id="particles"></canvas>
+
+<script src="script.js"></script>
+</body>
+</html>
