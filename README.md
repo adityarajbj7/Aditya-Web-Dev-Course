@@ -1,240 +1,243 @@
+<div align="center">
+
 # 🌐 Aditya Web Development Course
 
-> My personal learning repository for the **Sigma Web Development Course** by **CodeWithHarry** on YouTube.
+### 🚀 My Complete Full Stack Web Development Journey
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Learning+Web+Development+from+Scratch;Following+CodeWithHarry's+Sigma+Course;Building+Projects+%F0%9F%9A%80;Learning+by+Doing+%F0%9F%92%BB;Future+Full+Stack+Developer+%F0%9F%8C%9F" />
+
+<br>
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Learning-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Status](https://img.shields.io/badge/Status-Learning-success?style=flat-square)
+![Repository](https://img.shields.io/badge/Repository-Public-blue?style=flat-square)
+![Made With](https://img.shields.io/badge/Made%20With-%E2%9D%A4-red?style=flat-square)
 
 ---
 
-## 📖 About
+### ⭐ *"Consistency beats intensity."*
 
-Welcome to my Web Development learning journey!
-
-This repository contains all of my notes, practice files, assignments, mini-projects, and full-stack projects while learning **Web Development** through the **Sigma Web Development Course** by **CodeWithHarry**.
-
-I created this repository to document my progress, strengthen my understanding of web technologies, and build a solid portfolio as I continue learning.
+</div>
 
 ---
 
-## 🎯 Course Information
+# 📖 About This Repository
 
-| Details | Information |
-|---------|-------------|
-| **Course** | Sigma Web Development Course |
-| **Instructor** | CodeWithHarry |
-| **Platform** | YouTube |
-| **Language** | Hindi |
-| **Level** | Beginner → Advanced |
-| **Repository Owner** | Aditya Raj |
+Welcome to my **Web Development Journey**.
 
----
+This repository contains everything I build while following the **Sigma Web Development Course** by **CodeWithHarry**.
 
-## 🎯 Objectives
+Instead of simply watching tutorials, I believe in learning by building.
 
-This repository is intended to:
+Every folder, every project, every mistake, and every improvement is documented here.
 
-- 📚 Track my complete learning journey.
-- 💻 Practice every topic taught in the course.
-- 🚀 Build real-world projects.
-- 📂 Keep my code clean and organized.
-- 🧠 Revise concepts whenever needed.
-- 📈 Improve my programming and problem-solving skills.
-- 🌍 Learn both Frontend and Backend Development.
+This repository represents my progress from writing my very first HTML page to developing complete Full Stack web applications.
 
 ---
 
-## 🛠️ Technologies Covered
+# 🎯 Goals
 
-### Frontend
-- HTML5
-- CSS3
-- Flexbox
-- CSS Grid
-- Responsive Web Design
-- JavaScript (ES6+)
-- DOM Manipulation
-
-### Version Control
-- Git
-- GitHub
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
-
-### Frontend Framework
-- React.js
-
-### Other Topics
-- REST APIs
-- Authentication & Authorization
-- Deployment
-- Project Development
-- Best Coding Practices
+- 📚 Complete the entire Sigma Web Development Course
+- 💻 Build every project taught in the course
+- 🚀 Learn Frontend Development
+- ⚙️ Learn Backend Development
+- 🌐 Become a Full Stack Web Developer
+- 📈 Improve problem-solving skills
+- 📂 Maintain clean and organized code
+- 🧠 Create projects beyond the course
 
 ---
 
-## 📂 Repository Structure
+# 🧑‍🏫 Course Details
+
+| Information | Details |
+|------------|---------|
+| 📚 Course | Sigma Web Development Course |
+| 👨‍🏫 Instructor | CodeWithHarry |
+| 📺 Platform | YouTube |
+| 🌎 Language | Hindi |
+| 🎯 Level | Beginner → Advanced |
+| 💻 Focus | Full Stack Web Development |
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,nodejs,express,mongodb,react,npm" />
+
+</p>
+
+---
+
+# 🗂 Repository Structure
 
 ```text
-Aditya-Web-Dev-Course/
+📦 Aditya-Web-Dev-Course
 │
-├── HTML/
-│   ├── Notes/
-│   ├── Practice/
-│   └── Projects/
+├── 📁 HTML
 │
-├── CSS/
-│   ├── Notes/
-│   ├── Practice/
-│   └── Projects/
+├── 📁 CSS
 │
-├── JavaScript/
-│   ├── Notes/
-│   ├── Practice/
-│   └── Projects/
+├── 📁 JavaScript
 │
-├── React/
+├── 📁 Git-GitHub
 │
-├── NodeJS/
+├── 📁 React
 │
-├── Express/
+├── 📁 NodeJS
 │
-├── MongoDB/
+├── 📁 ExpressJS
 │
-├── Full Stack Projects/
+├── 📁 MongoDB
 │
-├── Assignments/
+├── 📁 Full Stack Projects
 │
-├── Assets/
+├── 📁 Mini Projects
 │
-├── Notes/
+├── 📁 Assignments
 │
-└── README.md
+├── 📁 Notes
+│
+├── 📁 Assets
+│
+└── 📄 README.md
 ```
 
 ---
 
-## 📈 Learning Progress
+# 📚 Learning Roadmap
 
-### Frontend
+```text
+HTML5            ████████████████████ 100%
 
-- [ ] HTML5
-- [ ] CSS3
-- [ ] Flexbox
-- [ ] CSS Grid
-- [ ] Responsive Design
-- [ ] JavaScript
-- [ ] DOM Manipulation
+CSS3             █████████████████░░░
 
-### Version Control
+JavaScript       ███████░░░░░░░░░░░░░
 
-- [ ] Git
-- [ ] GitHub
+Git & GitHub     █████░░░░░░░░░░░░░░░
 
-### Backend
+Responsive CSS   ████░░░░░░░░░░░░░░░░
 
-- [ ] Node.js
-- [ ] Express.js
-- [ ] MongoDB
+React.js         ░░░░░░░░░░░░░░░░░░░░
 
-### Framework
+Node.js          ░░░░░░░░░░░░░░░░░░░░
 
-- [ ] React.js
+Express.js       ░░░░░░░░░░░░░░░░░░░░
 
-### Advanced Topics
+MongoDB          ░░░░░░░░░░░░░░░░░░░░
 
-- [ ] REST APIs
-- [ ] Authentication
-- [ ] Deployment
+Projects         ███░░░░░░░░░░░░░░░░░
+```
 
 ---
 
-## 📌 Repository Purpose
+# 🚀 What You'll Find Here
+
+✅ Lecture Notes
+
+✅ Practice Code
+
+✅ Assignments
+
+✅ Mini Projects
+
+✅ Full Stack Projects
+
+✅ Revision Material
+
+✅ Experiments
+
+✅ Problem Solving
+
+---
+
+# 📈 Repository Purpose
 
 This repository serves as my:
 
-- 📖 Digital notebook
-- 💻 Coding practice archive
-- 📂 Project collection
-- 🧠 Revision material
-- 📈 Progress tracker
-- 🌟 Developer portfolio
+- 📖 Digital Notebook
+- 💻 Coding Journal
+- 📚 Revision Material
+- 🚀 Project Portfolio
+- 📈 Progress Tracker
+- 🌎 Open Source Learning Archive
 
 ---
 
-## 🚀 Goals
+# 🏆 Learning Philosophy
 
-- ✅ Complete the entire Sigma Web Development Course.
-- ✅ Understand every concept from basics to advanced.
-- ✅ Build all projects from the course.
-- ✅ Create additional personal projects.
-- ✅ Master Frontend Development.
-- ✅ Learn Backend Development.
-- ✅ Become a Full Stack Web Developer.
-- ✅ Write clean, readable, and maintainable code.
-- ✅ Contribute to Open Source in the future.
+> **"Don't just watch tutorials. Build something with every lesson."**
+
+Learning becomes meaningful only when theory is transformed into practical projects.
 
 ---
 
-## 📚 Resources
+# 🤝 Acknowledgements
 
-### Learning
+A heartfelt thanks to **CodeWithHarry** for creating one of the best free Web Development courses on YouTube.
 
-- Sigma Web Development Course — CodeWithHarry
-- MDN Web Docs
-- W3Schools
-- JavaScript.info
-- GitHub Documentation
+Special thanks to the amazing developer community for continuously inspiring millions of learners around the world.
 
 ---
 
-## 🤝 Acknowledgements
+# 🌟 Future Plans
 
-A huge thank you to **CodeWithHarry** for creating the **Sigma Web Development Course** and making quality programming education freely available on YouTube.
-
-Special thanks to the open-source community and all the amazing developers who share their knowledge to help others learn and grow.
-
----
-
-## ⭐ Support
-
-If you find this repository useful or inspiring:
-
-- ⭐ Star this repository
-- 🍴 Fork it
-- 📢 Share it with other learners
+- Complete the Sigma Course
+- Build 50+ Projects
+- Learn React
+- Learn Backend Development
+- Deploy Full Stack Applications
+- Contribute to Open Source
+- Build Production-Ready Applications
 
 ---
 
-## 📜 License
+# 📜 License
 
-This repository is created **for educational and learning purposes only**.
+This repository is created **only for educational purposes**.
 
 All course credits belong to **CodeWithHarry**.
 
-The code, notes, and projects in this repository are my own implementations created while following the course.
+The notes, practice code, and projects are my own implementations created while learning from the course.
 
 ---
 
-# 💡 Developer Quotes
+<div align="center">
 
-> **"The expert in anything was once a beginner who refused to give up."** 🚀
+# 💡 Developer Mindset
 
-> **"Code. Break. Debug. Learn. Repeat."** 💻
+> **"The expert in anything was once a beginner who refused to give up."**
 
-> **"Every line of code you write today is an investment in your future."** 🌱
+<br>
 
-> **"Great developers aren't born—they're built one commit at a time."** ⭐
+> **"Code. Break. Debug. Learn. Repeat."**
 
-> **"Small commits. Consistent learning. Big results."** 🚀
+<br>
+
+> **"Every line of code you write today is an investment in your future."**
+
+<br>
+
+> **"Great developers aren't born—they're built one commit at a time."**
+
+<br>
+
+> **"Small commits. Consistent learning. Big results."**
 
 ---
 
-## 🚀 Happy Coding!
+### 🚀 Keep Learning • Keep Building • Keep Growing
 
-**Keep Learning. Keep Building. Keep Growing.**
+### ⭐ If you found this repository inspiring, don't forget to Star it!
 
-*"Today's practice is tomorrow's expertise."*
+### Happy Coding! 💻
 
+</div>
